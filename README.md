@@ -5,6 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsingh9790&label=Profile%20views&color=0e75b6&style=flat" alt="amitsingh9790" /> </p>
 
+- 👯 I’m looking to collaborate on **MERN Stack Projects**
+
+- 👨‍💻 All of my projects are available here [https://github.com/amitsingh9790](https://github.com/amitsingh9790)
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zYFUCgU9fDFm_ZGN6bWmkCLQKeP_H_bZ/view?usp=sharing)
+
+- ⚡ Fun fact **I love reading Non-fiction books✨**
+
 - 📫 How to reach me **amitsingh9790@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
