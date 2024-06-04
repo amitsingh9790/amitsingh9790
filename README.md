@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amit </h1>
-<h3 align="center">A passionate Full Stack developer</h3>
 
-Hello, my name is Amit Singh. I am a Full Stack Developer with experience in React, JavaScript, HTML, CSS, Express js, and MongoDB. I create elegant and efficient web solutions using cutting-edge technologies. I can build responsive user interfaces, robust server-side applications, and RESTful APIs. I use Github for project deployment.
+<h3 align="center">A passionate Full Stack developer</h3>
+<!-- 
+<h3 align="center">A passionate Full Stack developer</h3> 
+
+Hello, my name is Amit Singh. I am a Full Stack Developer with experience in React, JavaScript, HTML, CSS, Express js, and MongoDB. I create elegant and efficient web solutions using cutting-edge technologies. I can build responsive user interfaces, robust server-side applications, and RESTful APIs. I use Github for project deployment. 
+-->
+Hello, my name is Amit Singh. I am a Frontend Developer with experience in React, JavaScript, HTML, CSS. I create elegant and efficient web solutions using cutting-edge technologies. I can build responsive user interfaces, robust server-side applications, and RESTful APIs. I use Github for project deployment.
 
  I am looking for internships to apply and improve my skills. I am a quick learner, a hard worker, and a team player. I deliver high-quality products that meet   or exceed expectations. 
  Please contact me if you need a dedicated and hardworking developer.
